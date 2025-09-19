@@ -109,6 +109,22 @@ namespace ConsoleApp4
             //Console.WriteLine(res);
             #endregion
 
+            #region Q11
+            //Console.Write("Enter Day: ");
+            //string d = Console.ReadLine();
+            //Console.Write("Enter Month: ");
+            //string m = Console.ReadLine();
+            //Console.Write("Enter Year: ");
+            //string y = Console.ReadLine();
+            //Console.WriteLine($"Today's Date : {d} , {m} , {y}");
+            //Console.WriteLine($"Today's Date : {d} / {m} / {y}");
+            //Console.WriteLine($"Today's Date : {d} - {m} - {y}");
+            #endregion
+
+            #region Q12
+            // Answer : a) 14/06/2024
+            #endregion
+
             #region Q13
             // Answer :  f) A value 1 will be assigned to d.
             #endregion
