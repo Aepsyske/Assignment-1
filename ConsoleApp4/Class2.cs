@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
-    class Person
-    {
-        public string Name;
-    }
-    internal class Program
+    internal class Assignment
     {
         static void Main(string[] args)
         {
