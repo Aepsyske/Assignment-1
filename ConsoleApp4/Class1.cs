@@ -29,6 +29,7 @@ namespace ConsoleApp4
             //}
             #endregion
 
+<<<<<<< HEAD
             #region Q2
             //Console.Write("Input: ");
             //int n = Convert.ToInt32(Console.ReadLine());
@@ -156,6 +157,8 @@ namespace ConsoleApp4
             //Console.WriteLine($"Percentage: {average}%");
             #endregion
 
+=======
+>>>>>>> 1b943b814bb9e45a8446a739a2d2f6bc170b5e44
             #region Q11
             //int[] m = new int[12] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
             //int[] d = new int[12] { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
@@ -474,6 +477,18 @@ namespace ConsoleApp4
             //    }
             //}
             //Console.Write("]");
+            #endregion
+
+            #region Q13
+            // Answer :  f) A value 1 will be assigned to d.
+            #endregion
+
+            #region Q14
+            // Answer : d) 6 1
+            #endregion
+
+            #region Q15
+            // Answer : d) 7 7
             #endregion
         }
     }
